@@ -51,7 +51,7 @@ Employed Excel and inventory management software to consistently reconcile inven
 
 ![Data Dashboard](Files/pi80.png)
 
-![Summary Report]
+![Summary Report](Files/pi80SummaryReport(1).xlsx)
 
 ### Finance and Budgeting 
 
