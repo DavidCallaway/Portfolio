@@ -21,7 +21,7 @@
 
 Spearheaded the development and implementation of a standard operating procedure with the goal to reduce $300k in damages weekly. Utilizing Excel to gather data on a daily basis, I kept track of daily costs, problem-recurring SKUs, trends, damaged and return to stock daily ratios. After a 6 month period I presented the data and results to our senior team, ultimately getting it approved to go company wide starting next quarter.
 
-![Damage & Return to Stock Ration]*** image *** Insert powerpoint somehow
+![Damage & Return to Stock Ration](Files/dmgrtsratio.png)
 
 ### Receiving Audit Report and Process Implementation
 
