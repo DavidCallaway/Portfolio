@@ -10,6 +10,7 @@ Thank you for visiting. If you have any questions, please don't hesitate to reac
 
 ### Contact Information
 -Linkedin@DavidCallaway
+
 -Email:Davidcallawaybb@gmail.com
 
 ### Work Experience
