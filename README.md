@@ -1,4 +1,6 @@
-# Data Analyst
+# David Callaway - Data Analyst Portfolio
+
+## About
 
 ### Work Experience
 **Inventory Control Specialist @ Veyer LLC (_December 2023 - Present_)**
