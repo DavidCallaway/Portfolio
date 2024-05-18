@@ -72,10 +72,5 @@ Employed Excel and inventory management software to consistently reconcile inven
 ![Data Dashboard](Files/pi80.png)
 
 
-## Finance and Budgeting 
-
-Heres a budgeting report I created as a bonus!
-
-
 ## Education
 -Data Analytics | Computer Science/IT - North Georiga Tehnical College
