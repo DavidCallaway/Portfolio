@@ -18,7 +18,7 @@
 -Enhanced productivity of 25 associates through effective leadership during slotting project.
 -Fostered collaboration among inventory control departments to achieve project objectives.
 
-## Projects
+## Portfolio Projects
 ### Data-Driven Standard Operating Procedure For Processing Damages
 
 Spearheaded the development and implementation of a standard operating procedure with the goal to reduce $300k in damages weekly. Utilizing Excel to gather data on a daily basis, I kept track of daily costs, problem-recurring SKUs, trends, damaged and return to stock daily ratios. After a 6 month period I presented the data and results to our senior team, ultimately getting it approved to go company wide starting next quarter.
