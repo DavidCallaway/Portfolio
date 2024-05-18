@@ -15,18 +15,27 @@ Thank you for visiting. If you have any questions, please don't hesitate to reac
 
 ### Work Experience
 **Inventory Control Specialist @ Veyer LLC (_December 2023 - Present_)**
+
 -Employed Excel and inventory management software to consistently reconcile inventory levels daily, ensuring data accuracy.
+
 -Implemented a proactive approach to achieve inventory excellence by conducting meticulous data analysis and reporting.
 
 **Inbound Supervisor @ Ollie's Bargain Outlet (_May 2023 - December 2023_)**
+
 -Spearheaded the development and implementation of a new auditing process that resulted in a significant increase in quality percentages.
+
 -Provided personalized constant feedback to receivers, resulting in a decrease in error rates from 22% to less than 1%.
+
 -Managed a team of 44 associates with diverse responsibilities in the receiving and stocking departments.
 
 **Inventory Control Lead @ Bed Bath and Beyond (_January 2021 - May 2023_)**
--Leveraged Excel expertise to identify and resolve $300k in weekly damages.
+
+Leveraged Excel expertise to identify and resolve $300k in weekly damages.
+
 -Implemented cost-saving processes, reducing expenses by 48% within a 6-month timeframe.
+
 -Enhanced productivity of 25 associates through effective leadership during slotting project.
+
 -Fostered collaboration among inventory control departments to achieve project objectives.
 
 ## Portfolio Projects
