@@ -9,9 +9,9 @@ Outside of work, I relish my role as a father and husband, with a pronounced pas
 Thank you for visiting. If you have any questions, please don't hesitate to reach out. My contact information is provided below.
 
 ### Contact Information
--Linkedin@DavidCallaway
+-Linkedin: @DavidCallaway
 
--Email:Davidcallawaybb@gmail.com
+-Email: Davidcallawaybb@gmail.com
 
 ### Work Experience
 **Inventory Control Specialist @ Veyer LLC (_December 2023 - Present_)**
