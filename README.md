@@ -37,7 +37,7 @@ My goal was to provide personalized feedback to each receiver based on their ind
 
 Following a period of data collection, we were able to visually represent improvements by comparing set times. The process was well-received and generated positive feedback. Here, we compare data from August to September. Our goal was to audit 90% of all given RAs, which yielded a robust dataset for comparison. By the end of September, the error rate had significantly declined from the initial 22% to consistently below 1%.
 
-![August Summary]*** image *** 
+![August Summary](Files/rcv4.png)
 
 ![September Summary]*** image *** 
 
