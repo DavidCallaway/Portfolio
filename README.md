@@ -30,7 +30,7 @@ Thank you for visiting. If you have any questions, please don't hesitate to reac
 
 **Inventory Control Lead @ Bed Bath and Beyond (_January 2021 - May 2023_)**
 
-Leveraged Excel expertise to identify and resolve $300k in weekly damages.
+-Leveraged Excel expertise to identify and resolve $300k in weekly damages.
 
 -Implemented cost-saving processes, reducing expenses by 48% within a 6-month timeframe.
 
