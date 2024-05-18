@@ -1,4 +1,4 @@
-# David Callaway - Data Analyst Portfolio
+# David's Data Portfolio
 
 ## About
 
