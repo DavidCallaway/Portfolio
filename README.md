@@ -29,7 +29,7 @@ The audit report primarily focused on the receiving side of the operation. After
 
 We typically had 15-20 truckloads of products scheduled daily, each tied to receiving authorizations (RA) and an expected list of contents. However, the actual contents often varied. The receiving process posed numerous technical challenges. All pallets had to adhere to several guidelines: no mixed pallets, the same product per pallet, and confirmed quantity. Each pallet also needed the correct SKU tag for the product. We were thorough during the data collection and auditing processes to ensure quality. This data was then entered into the Receiving Audit Report.
 
-![General Data Entry]*** image *** 
+![General Data Entry](Files/rcvv.png)
 
 My goal was to provide personalized feedback to each receiver based on their individual weaknesses. To accomplish this, I implemented action codes to identify the types of errors being made. This approach not only helps us discern error patterns, but also allows us to track improvement trends, which we can share with the team on a daily, weekly, and monthly basis. Upon inheriting this role, the overall error rate for all RAs for the team stood at 22%. We aimed to collect our data based on each RA and SKU (unique identifier for the product). Gathering data for RAs with multiple SKUs proved to be both challenging and time-consuming. Below is an example of how this process looked.
 
