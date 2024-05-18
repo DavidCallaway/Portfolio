@@ -23,7 +23,7 @@ Spearheaded the development and implementation of a standard operating procedure
 
 ![Damage & Return to Stock Ration](Files/dmgrtsratio.png)
 
-![Powerpoint](Files/Damagesin657Updated.pptx)
+![Powerpoint](https://davidcallaway.github.io/Portfolio/Files/Damagesin657Updated.pptx)
 
 ### Receiving Audit Report and Process Implementation
 
