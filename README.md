@@ -2,6 +2,16 @@
 
 ## About
 
+Hello! I'm David Callaway. I bring to the table a strong background in supply chain, e-commerce, and distribution center environments, all shaped by analytical leadership. I'm currently pursuing an associate degree in computer science/IT, and plan to follow it up with a degree in Data Science. I'm always seeking opportunities to refine and apply my analytical and technical skills.
+
+Outside of work, I relish my role as a father and husband, with a pronounced passion for fitness and finance. I meticulously track both my exercise routines and finances, down to the last penny, reflecting my love for data in all areas of my life. My dream is to turn this passion into a career, and I'm actively working towards making that a reality.
+
+Thank you for visiting. If you have any questions, please don't hesitate to reach out. My contact information is provided below.
+
+### Contact Information
+-Linkedin@DavidCallaway
+-Email:Davidcallawaybb@gmail.com
+
 ### Work Experience
 **Inventory Control Specialist @ Veyer LLC (_December 2023 - Present_)**
 -Employed Excel and inventory management software to consistently reconcile inventory levels daily, ensuring data accuracy.
@@ -25,7 +35,6 @@ Spearheaded the development and implementation of a standard operating procedure
 
 ![Damage & Return to Stock Ration](Files/dmgrtsratio.png)
 
-![Powerpoint](https://davidcallaway.github.io/Portfolio/Files/Damagesin657Updated.pptx)
 
 ### Receiving Audit Report and Process Implementation
 
@@ -45,7 +54,6 @@ Following a period of data collection, we were able to visually represent improv
 
 ![September Summary](Files/rcv3.png) 
 
-![Receiving Audit Report](Files/ReceivingAuditReport.xlsx)
 
 ### Inventory Reconcile Action Reporting 
 
@@ -53,13 +61,11 @@ Employed Excel and inventory management software to consistently reconcile inven
 
 ![Data Dashboard](Files/pi80.png)
 
-![Summary Report](Files/pi80SummaryReport(1).xlsx)
 
 ### Finance and Budgeting 
 
 Heres a budgeting report I created as a bonus!
 
-![Budget Template](Files/BudgetTemplate.xlsx)
 
 ### Education
 -Data Analytics | Computer Science/IT - North Georiga Tehnical College
