@@ -39,7 +39,7 @@ Following a period of data collection, we were able to visually represent improv
 
 ![August Summary](Files/rcv4.png)
 
-![September Summary]*** image *** 
+![September Summary](Files/rcv3.png) 
 
 ### Inventory Reconcile Action Reporting 
 
