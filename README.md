@@ -43,7 +43,7 @@ Following a period of data collection, we were able to visually represent improv
 
 ![September Summary](Files/rcv3.png) 
 
-![Receiving Audit Report]
+![Receiving Audit Report](Files/ReceivingAuditReport.xlsx)
 
 ### Inventory Reconcile Action Reporting 
 
