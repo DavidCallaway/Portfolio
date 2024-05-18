@@ -33,7 +33,7 @@ We typically had 15-20 truckloads of products scheduled daily, each tied to rece
 
 My goal was to provide personalized feedback to each receiver based on their individual weaknesses. To accomplish this, I implemented action codes to identify the types of errors being made. This approach not only helps us discern error patterns, but also allows us to track improvement trends, which we can share with the team on a daily, weekly, and monthly basis. Upon inheriting this role, the overall error rate for all RAs for the team stood at 22%. We aimed to collect our data based on each RA and SKU (unique identifier for the product). Gathering data for RAs with multiple SKUs proved to be both challenging and time-consuming. Below is an example of how this process looked.
 
-![Errors BY SKU Quantity]*** image *** 
+![Errors BY SKU Quantity](Files/rcv2.png)
 
 Following a period of data collection, we were able to visually represent improvements by comparing set times. The process was well-received and generated positive feedback. Here, we compare data from August to September. Our goal was to audit 90% of all given RAs, which yielded a robust dataset for comparison. By the end of September, the error rate had significantly declined from the initial 22% to consistently below 1%.
 
