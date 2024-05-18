@@ -23,6 +23,8 @@ Spearheaded the development and implementation of a standard operating procedure
 
 ![Damage & Return to Stock Ration](Files/dmgrtsratio.png)
 
+![Powerpoint]
+
 ### Receiving Audit Report and Process Implementation
 
 The audit report primarily focused on the receiving side of the operation. After clarifying the expectations for the new process, we began to collect data. We promoted an environment of mutual support, addressing and correcting issues before they left the dock.
