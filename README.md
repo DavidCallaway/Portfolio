@@ -2,7 +2,7 @@
 
 ## About
 
-Hello! I'm David Callaway. I bring to the table a strong background in supply chain, e-commerce, and distribution center environments, all shaped by analytical leadership. I'm currently pursuing an associate degree in computer science/IT, and plan to follow it up with a degree in Data Science. I'm always seeking opportunities to refine and apply my analytical and technical skills.
+Hello! I'm David. I am a strong analytical leader with a background in supply chain, e-commerce, and distribution center environments.I'm currently pursuing an associate degree in computer science/IT, and plan to follow it up with a degree in Data Science. I'm always seeking opportunities to refine and apply my analytical and technical skills.
 
 Outside of work, I relish my role as a father and husband, with a pronounced passion for fitness and finance. I meticulously track both my exercise routines and finances, down to the last penny, reflecting my love for data in all areas of my life. My dream is to turn this passion into a career, and I'm actively working towards making that a reality.
 
