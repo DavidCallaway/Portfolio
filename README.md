@@ -51,5 +51,7 @@ Employed Excel and inventory management software to consistently reconcile inven
 
 Heres a budgeting report I created as a bonus!
 
+(Files/Budget Template.xlsx)
+
 ### Education
--Data Analytics|Computer Science/IT North Georiga Tehnical College
+-Data Analytics | Computer Science/IT - North Georiga Tehnical College
