@@ -45,7 +45,7 @@ Following a period of data collection, we were able to visually represent improv
 
 Employed Excel and inventory management software to consistently reconcile inventory levels daily, while utilizing excel to create a visual database dashboard communicating the actions taken to maintain inventory intergrity,
 
-![Data Dashboard]*** image *** 
+![Data Dashboard](Files/pi80.png)
 
 ### Finance and Budgeting 
 
