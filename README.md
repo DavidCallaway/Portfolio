@@ -13,7 +13,7 @@ Thank you for visiting. If you have any questions, please don't hesitate to reac
 
 -Email: Davidcallawaybb@gmail.com
 
-### Work Experience
+## Work Experience
 **Inventory Control Specialist @ Veyer LLC (_December 2023 - Present_)**
 
 -Employed Excel and inventory management software to consistently reconcile inventory levels daily, ensuring data accuracy.
@@ -72,10 +72,10 @@ Employed Excel and inventory management software to consistently reconcile inven
 ![Data Dashboard](Files/pi80.png)
 
 
-### Finance and Budgeting 
+## Finance and Budgeting 
 
 Heres a budgeting report I created as a bonus!
 
 
-### Education
+## Education
 -Data Analytics | Computer Science/IT - North Georiga Tehnical College
