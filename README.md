@@ -41,7 +41,13 @@ Thank you for visiting. If you have any questions, please don't hesitate to reac
 ## Portfolio Projects
 ### Data-Driven Standard Operating Procedure For Processing Damages
 
-Spearheaded the development and implementation of a standard operating procedure with the goal to reduce $300k in damages weekly. Utilizing Excel to gather data on a daily basis, I kept track of daily costs, problem-recurring SKUs, trends, damaged and return to stock daily ratios. After a 6 month period I presented the data and results to our senior team, ultimately getting it approved to go company wide starting next quarter.
+During my pursuit of a leadership position at BedBath & Beyond, my senior manager tasked me with assessing and presenting a solution to the warehouse's damage costs. Seizing this opportunity, I created an Excel sheet to catalog our data over a six-month period. It tracked products, the number of units per product, costs, and a ratio of damaged items returned to stock.
+
+After a month of tracking and establishing a baseline for the damage rate, I implemented a standard operating procedure (SOP) for the damage process. This SOP successfully standardized the criteria for considering an item as damaged. It was titled "Crinkle, Wrinkle, Dent", implying that an item with a certain level of these conditions should not be considered damaged.
+
+I conducted one-on-one training for the Returns associates and created multiple visual aids to help distinguish between tolerable conditions and damage. I concluded that the main reason for the $300k worth of damages per week was the inconsistency in damage assessment - everyone had their own opinion.
+
+After the SOP implementation, we began to notice a gradual increase in the damage-to-return-to-stock ratio. A significant cost reduction became apparent, and I used Excel to visually represent this data for the senior leadership team. The presentation was successful, and the procedure was approved for company-wide implementation. This successful experience ignited my passion for using data to improve organizational operations.
 
 ![Damage & Return to Stock Ration](Files/dmgrtsratio.png)
 
