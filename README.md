@@ -39,6 +39,8 @@ Thank you for visiting. If you have any questions, please don't hesitate to reac
 -Fostered collaboration among inventory control departments to achieve project objectives.
 
 ## Portfolio Projects
+
+
 ### Data-Driven Standard Operating Procedure For Processing Damages
 
 During my pursuit of a leadership position at BedBath & Beyond, my senior manager tasked me with assessing and presenting a solution to the warehouse's damage costs. Seizing this opportunity, I created an Excel sheet to catalog our data over a six-month period. It tracked products, the number of units per product, costs, and a ratio of damaged items returned to stock.
