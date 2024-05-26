@@ -77,7 +77,7 @@ Following a period of data collection, we were able to visually represent improv
 
 I developed a daily report to categorize the root causes of variances, using reasoning codes to break down these causes for the senior team. This proactive approach allows for early identification and resolution of issues. The report provides a clear visual representation, enabling the detection of trends over time, the identification of issues, and the provision of appropriate training to rectify these problems.
 
-![Data Dashboard](Files/pi80.png)
+![Data Dashboard](Files/Pi80portfoliopic.png)
 
 
 ## Education
