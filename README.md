@@ -82,7 +82,7 @@ I find joy in transforming spending data into tangible solutions that align with
 
 ![Budget Summary](Files/SummaryExamplePortfolio.png)
 
-![Monthly Input Example]
+![Monthly Input Example](Files/MonthlyInputExamplePortfolio.png)
 
 
 ### Inventory Reconcile Action Reporting 
