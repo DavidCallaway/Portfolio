@@ -72,6 +72,18 @@ Following a period of data collection, we were able to visually represent improv
 
 ![September Summary](Files/rcv3.png) 
 
+### Budgeting Towards Financial Freedom
+
+Utilizing Excel as a powerful financial tool, I successfully achieved debt freedom and guided my family towards financial independence. I developed a comprehensive budgeting report that meticulously tracked spending to the last cent and categorized expenditures. This visual representation allowed for clear identification of areas for improvement. My dedication to financial awareness drives me to analyze every dollar spent and implement strategic solutions for financial goals. 
+
+I am passionate about leveraging Excel to enhance financial management and am committed to continuous growth in finance knowledge and discipline. In addition to my financial coaching services, I specialize in creating customized Excel budgeting sheets tailored to individual spending habits. I provide coaching and instruction on how to effectively utilize and maintain these tools. 
+
+I find joy in transforming spending data into tangible solutions that align with clients' goals, while delivering strong visual representations. Below, you will find samples of the summary page and standard monthly data input page that I use to support my financial coaching services.
+
+![Budget Summary]
+
+![Monthly Input Example]
+
 
 ### Inventory Reconcile Action Reporting 
 
