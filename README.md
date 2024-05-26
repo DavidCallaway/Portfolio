@@ -80,7 +80,7 @@ I am passionate about leveraging Excel to enhance financial management and am co
 
 I find joy in transforming spending data into tangible solutions that align with clients' goals, while delivering strong visual representations. Below, you will find samples of the summary page and standard monthly data input page that I use to support my financial coaching services.
 
-![Budget Summary]
+![Budget Summary](Files/SummaryExamplePortfolio.png)
 
 ![Monthly Input Example]
 
