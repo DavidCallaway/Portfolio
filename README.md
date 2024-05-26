@@ -93,4 +93,5 @@ I developed a daily report to categorize the root causes of variances, using rea
 
 
 ## Education
--Data Analytics | Computer Science/IT - North Georiga Tehnical College
+-Data Science | Computer Science/IT - North Georiga Tehnical College
+Expected Graduation: May 2025
