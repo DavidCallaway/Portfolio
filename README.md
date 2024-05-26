@@ -94,4 +94,4 @@ I developed a daily report to categorize the root causes of variances, using rea
 
 ## Education
 -Data Science | Computer Science/IT - North Georiga Tehnical College
-Expected Graduation: May 2025
+ (Expected Graduation: May 2025)
