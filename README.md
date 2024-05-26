@@ -73,7 +73,7 @@ Following a period of data collection, we were able to visually represent improv
 
 ### Inventory Reconcile Action Reporting 
 
-Employed Excel and inventory management software to consistently reconcile inventory levels daily, while utilizing excel to create a visual database dashboard communicating the actions taken to maintain inventory intergrity,
+I created a report to categorize the root causes of variances daily. Using reasoning codes, I provided a breakdown of these causes to the senior team. This proactive approach helps identify and preemptively address issues. The report offers a clear visual representation and the ability to identify trends over time
 
 ![Data Dashboard](Files/pi80.png)
 
