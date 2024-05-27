@@ -9,7 +9,7 @@ Outside of work, I relish my role as a father and husband, with a pronounced pas
 Thank you for visiting. If you have any questions, please don't hesitate to reach out. My contact information is provided below.
 
 ### Contact Information
--Linkedin: [@DavidCallaway](www.linkedin.com/in/david-callaway-5657b322a)
+-Linkedin: [@DavidCallaway](http://linkedin.com/in/david-callaway-5657b322a)
 
 -Email: Davidcallawaybb@gmail.com
 
